@@ -1,0 +1,9 @@
+c:\users\gokha\documents\visual studio 2015\Projects\Proje_Kitaplik\Proje_Kitaplik\bin\Debug\Proje_Kitaplik.exe.config
+c:\users\gokha\documents\visual studio 2015\Projects\Proje_Kitaplik\Proje_Kitaplik\bin\Debug\Proje_Kitaplik.exe
+c:\users\gokha\documents\visual studio 2015\Projects\Proje_Kitaplik\Proje_Kitaplik\bin\Debug\Proje_Kitaplik.pdb
+c:\users\gokha\documents\visual studio 2015\Projects\Proje_Kitaplik\Proje_Kitaplik\obj\Debug\Proje_Kitaplik.csprojResolveAssemblyReference.cache
+c:\users\gokha\documents\visual studio 2015\Projects\Proje_Kitaplik\Proje_Kitaplik\obj\Debug\Proje_Kitaplik.Form1.resources
+c:\users\gokha\documents\visual studio 2015\Projects\Proje_Kitaplik\Proje_Kitaplik\obj\Debug\Proje_Kitaplik.Properties.Resources.resources
+c:\users\gokha\documents\visual studio 2015\Projects\Proje_Kitaplik\Proje_Kitaplik\obj\Debug\Proje_Kitaplik.csproj.GenerateResource.Cache
+c:\users\gokha\documents\visual studio 2015\Projects\Proje_Kitaplik\Proje_Kitaplik\obj\Debug\Proje_Kitaplik.exe
+c:\users\gokha\documents\visual studio 2015\Projects\Proje_Kitaplik\Proje_Kitaplik\obj\Debug\Proje_Kitaplik.pdb
